@@ -1,5 +1,5 @@
 # substrate-and-friends-only
-Substrate, Cydia, & friends only from https://apt.bingner.com
+Substrate, Cydia, & friends only from [Bingner/Elucubratus](https://apt.bingner.com)
 
 
 ## Issues
