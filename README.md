@@ -1,6 +1,6 @@
 # Elucidate Elucubratus for Procursus
 
-only mobilesubstrate, cydia, & their dependencies from [Bingner/Elucubratus](https://apt.bingner.com)
+only mobilesubstrate, cydia, & their dependencies from [Elucubratus](https://apt.bingner.com)
 
 
 ## Issues
