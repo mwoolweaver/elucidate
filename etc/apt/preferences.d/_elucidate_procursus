@@ -1,0 +1,43 @@
+Package: *
+Pin: release o=Procursus
+Pin-Priority: 1003
+
+Package: cydia
+Pin: release o=Procursus
+Pin-Priority: -1
+
+Package: libapt
+Pin: release o=Procursus
+Pin-Priority: -1
+
+Package: xz
+Pin: release o=Procursus
+Pin-Priority: -1
+
+Package: apt-lib
+Pin: release o=Procursus
+Pin-Priority: -1
+
+Package: gcrypt
+Pin: release o=Procursus
+Pin-Priority: -1
+
+Package: libapt-pkg5.0
+Pin: release o=Procursus
+Pin-Priority: -1
+
+Package: lzma
+Pin: release o=Procursus
+Pin-Priority: -1
+
+Package: pcre
+Pin: release o=Procursus
+Pin-Priority: -1
+
+Package: pcre2
+Pin: release o=Procursus
+Pin-Priority: -1
+
+Package: readline
+Pin: release o=Procursus
+Pin-Priority: -1
