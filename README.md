@@ -1,8 +1,8 @@
 # Elucidate Elucubratus for Procursus
 
-only `mobilesubstrate`, `cydia`, & their dependencies from [Elucubratus](https://apt.bingner.com)./
+only `mobilesubstrate`, `cydia`, & their dependencies from [Elucubratus](https://apt.bingner.com).
 
-also hides `dummy packages` provided by [Procursus](https://github.com/ProcursusTeam/Procursus/blob/master/build_tools/make_dummy.sh) .
+also hides `dummy packages` provided by [Procursus](https://github.com/ProcursusTeam/Procursus/blob/master/build_tools/make_dummy.sh).
 
 ## Issues
 
