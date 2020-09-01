@@ -6,4 +6,4 @@ also hides `dummy packages` provided by [Procursus](https://github.com/Procursus
 
 ## Issues
 
-**will only work in `cydia` after installing the `Procursus` bootstrap via https://odysseyra1n.com/**
+**will only work in `cydia` after installing the `Procursus` bootstrap via https://odysseyra1n.com**
