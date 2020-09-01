@@ -5,10 +5,10 @@ Maintainer: Michael Woolweaver <m.woolweaver@icloud.com>
 Depends: procursus-keyring
 Replaces: cydia
 Filename: ./elucidate.deb
-Size: 1284
-MD5sum: 73fbf8885cd7b0ee48f684dc453ad62b
-SHA1: f6ca637d245acdc441bf4d1f376936825ea09b68
-SHA256: 65721ba91428a6978f9980126174184061a1b2781167f0c9df75c2cec5620116
+Size: 1212
+MD5sum: 4c82c09e66c78327e6bcf65bbfbd1a54
+SHA1: 59e61704836b2bb5c44ad2c1d585ed7956c15182
+SHA256: 41e2f2b43ba9294e0a3f4e68fcc68685eaaeedf305860a35becce470a8b7bb06
 Section: Elucidate
 Description: Clean up Elucubratus for use with Procursus on checkra1n with Cydia.
  (ĭ-lo͞o′sĭ-dāt′)
