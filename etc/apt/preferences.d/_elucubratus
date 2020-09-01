@@ -1,12 +1,14 @@
-# Set Pin-Priority: 1003 #
+#
 
-# Procursus take Priority over all #
+## Set Pin-Priority: 1003 ##
+
+### Make Procursus take Priority over all ###
 
 Package: *
 Pin: release o=Procursus
 Pin-Priority: 1003
 
-# Only shows these from Elucubratus #
+### Only show these from Bingner/Elucubratus ###
 
 Package: mobilesubstrate
 Pin: release o=Bingner/Elucubratus
@@ -36,15 +38,17 @@ Package: cydia-lproj
 Pin: release o=Bingner/Elucubratus
 Pin-Priority: 1003
 
-# Set Pin-Priority: -1 to ignore these packages #
+#
 
-# Ignore all other packages from Elucubratus #
+## Set Pin-Priority: -1 to ignore these packages ##
+
+### Ignore all other packages from Bingner/Elucubratus ###
 
 Package: *
 Pin: release o=Bingner/Elucubratus
 Pin-Priority: -1
 
-# Ignore all these packages from Procursus #
+### Ignore only these packages from Procursus ###
 
 Package: cydia
 Pin: release o=Procursus
