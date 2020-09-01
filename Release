@@ -1,0 +1,8 @@
+Origin: Elucidate Elucubratus
+Label: Elucidate Elucubratus
+Suite: stable
+Version: 1.0r1
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Distribution of Unix Software for iPhoneOS

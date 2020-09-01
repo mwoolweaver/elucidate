@@ -1,0 +1,16 @@
+Package: elucidate
+Version: 1.0r1
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <m.woolweaver@icloud.com>
+Depends: procursus-keyring
+Filename: ./elucidate.deb
+Size: 1276
+MD5sum: c71e8d5ac3b968e37eac433821b73496
+SHA1: 7338bea729d20e83093144e99fdf9e2bc5a26ae5
+SHA256: 037e5c1ffa9eaaced61fd06502d225f8b4730d0a627900d0b2b6f2e5eb9e4ec8
+Section: Elucidate
+Description: Clean up Elucubratus for use with Procursus on checkra1n with Cydia.
+ (ĭ-lo͞o′sĭ-dāt′)
+Author: Michael Woolweaver <m.woolweaver@icloud.com>
+Name: elucidate
+
