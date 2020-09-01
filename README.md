@@ -1,6 +1,6 @@
 # Elucidate Elucubratus for Procursus on checkra1n
 
-## Elucubratus Packages
+### Elucubratus Packages
 
 only `mobilesubstrate`, `cydia`, & their dependencies from [Elucubratus](https://apt.bingner.com) that aren't provided by Procursus.
 
@@ -14,7 +14,7 @@ only `mobilesubstrate`, `cydia`, & their dependencies from [Elucubratus](https:/
      
 also includes `com.bingner.snappy` cause I'm not sure of the consequences of not having it on [checkra1n](https://checkra.in)
    
-## Procursus Packages
+### Procursus Packages
 
  * hides `dummy packages` provided by [Procursus](https://github.com/ProcursusTeam/Procursus/blob/master/build_tools/make_dummy.sh).
 
