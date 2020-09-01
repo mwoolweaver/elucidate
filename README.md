@@ -6,11 +6,11 @@ only `mobilesubstrate`, `cydia`, & their dependencies from [Elucubratus](https:/
 
   * `mobilesubstrate`
   
-      * Depends: `com.saurik.substrate.safemode`
+    * Depends: `com.saurik.substrate.safemode`
    
   * `cydia`
     
-     * Depends: `cydia-lproj (>= 1.1.10)`, `org.thebigboss.repo.icons`
+    * Depends: `cydia-lproj (>= 1.1.10)`, `org.thebigboss.repo.icons`
      
 also includes `com.bingner.snappy` cause I'm not sure of the consequences of not having it on [checkra1n](https://checkra.in)
    
@@ -18,12 +18,11 @@ also includes `com.bingner.snappy` cause I'm not sure of the consequences of not
 
  * hides `dummy packages` provided by [Procursus](https://github.com/ProcursusTeam/Procursus/blob/master/build_tools/make_dummy.sh).
 
-    * A `dummy package` is used to help migration from other bootstraps. Safe to remove.
+   * A `dummy package` is used to help migration from other bootstraps. Safe to remove.
     
  * hides older version of `cydia` provided by [Procursus](https://github.com/ProcursusTeam/repo/blob/master/pool/main/iphoneos-arm64/1600/cydia_1.1.33_iphoneos-arm.deb)
     
-    * Cydia Version: 1.1.33
-  
+   * `cydia` Version: 1.1.33
 
 
 ## Issues
