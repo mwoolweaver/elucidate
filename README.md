@@ -1,5 +1,9 @@
 # Elucidate Elucubratus for Procursus on checkra1n
 
+## Issues
+
+**will only work in `cydia` after installing the `Procursus` bootstrap via https://odysseyra1n.com.**
+
 ### Elucubratus Packages
 
 only `mobilesubstrate`, `cydia`, & their dependencies from [Elucubratus](https://apt.bingner.com) that aren't provided by Procursus.
@@ -23,8 +27,3 @@ also includes `com.bingner.snappy` cause I'm not sure of the consequences of not
  * hides older version of `cydia` provided by [Procursus](https://github.com/ProcursusTeam/repo/blob/master/pool/main/iphoneos-arm64/1600/cydia_1.1.33_iphoneos-arm.deb)
     
    * `cydia` Version: 1.1.33
-
-
-## Issues
-
-**will only work in `cydia` after installing the `Procursus` bootstrap via https://odysseyra1n.com**
