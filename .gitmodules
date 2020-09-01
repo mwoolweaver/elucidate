@@ -1,0 +1,4 @@
+[submodule "repo"]
+	path = repo
+	url = https://github.com/mwoolweaver/elucidate.git
+	branch = gh-pages
