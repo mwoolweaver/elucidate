@@ -1,5 +1,6 @@
-# Substrate, Cydia, & friends
-Substrate, Cydia, & friends only from [Bingner/Elucubratus](https://apt.bingner.com)
+# Elucidate Elucubratus for Procursus
+
+only mobilesubstrate, cydia, & their dependencies from [Bingner/Elucubratus](https://apt.bingner.com)
 
 
 ## Issues
