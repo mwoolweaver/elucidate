@@ -4,4 +4,4 @@ Substrate, Cydia, & friends only from [Bingner/Elucubratus](https://apt.bingner.
 
 ## Issues
 
-Will only work in Cydia
+Will only work in Cydia after installing the Procursus bootstrap via https://odysseyra1n.com/
