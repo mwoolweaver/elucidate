@@ -1,5 +1,7 @@
 # Elucidate Elucubratus for Procursus on checkra1n
 
+(ĭ-lo͞o′sĭ-dāt′) Clean up Elucubratus for use with Procursus on checkra1n with Cydia.
+
 ## Issues
 
 **will only work in `cydia` after installing the `Procursus` bootstrap via https://odysseyra1n.com.**
