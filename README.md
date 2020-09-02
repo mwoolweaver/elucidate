@@ -31,3 +31,7 @@ also includes `com.bingner.snappy` cause I'm not sure of the consequences of not
  * hides older version of `cydia` provided by [Procursus](https://github.com/ProcursusTeam/repo/blob/master/pool/main/iphoneos-arm64/1600/cydia_1.1.33_iphoneos-arm.deb)
     
    * `cydia` Version: 1.1.33
+   
+   ## Disclaimer
+   
+   **I provide no support for Procursus/Odysseyra1n migration.**
