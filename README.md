@@ -1,6 +1,6 @@
 # Elucidate
 
-(ih-loo-si-deyt) 
+ (ĭ-lo͞o′sĭ-dāt′) 
 
 Clean up Elucubratus for use with Procursus on checkra1n with Cydia.
 
