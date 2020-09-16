@@ -1,0 +1,27 @@
+Package: *
+Pin: release o=Bingner/Elucubratus
+Pin-Priority: -1
+
+Package: mobilesubstrate
+Pin: release o=Bingner/Elucubratus
+Pin-Priority: 1003
+
+Package: com.saurik.substrate.safemode
+Pin: release o=Bingner/Elucubratus
+Pin-Priority: 1003
+
+Package: com.bingner.snappy
+Pin: release o=Bingner/Elucubratus
+Pin-Priority: 1003
+
+Package: org.thebigboss.repo.icons
+Pin: release o=Bingner/Elucubratus
+Pin-Priority: 1003
+
+Package: cydia
+Pin: release o=Bingner/Elucubratus
+Pin-Priority: 1003
+
+Package: cydia-lproj
+Pin: release o=Bingner/Elucubratus
+Pin-Priority: 1003

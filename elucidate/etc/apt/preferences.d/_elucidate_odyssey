@@ -1,0 +1,11 @@
+Package: *
+Pin: release n=odyssey-ios
+Pin-Priority: 1003
+
+Package: preferenceloader
+Pin: release n=odyssey-ios
+Pin-Priority: -1
+
+Package: com.muirey03.libmryipc
+Pin: release n=odyssey-ios
+Pin-Priority: -1
