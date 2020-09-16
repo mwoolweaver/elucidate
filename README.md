@@ -35,7 +35,7 @@ only show the following, hide everything else
 only hide the following, show everything else
 
    * all `dummy packages` 
-      > [a `dummy package` is used to help with migration from other bootstraps. Safe to remove.](https://github.com/ProcursusTeam/Procursus/blob/master/build_tools/make_dummy.sh)
+      > [a `dummy package` is used to help with migration from other bootstraps. Safe to remove.](https://github.com/ProcursusTeam/Procursus/blob/master/build_tools/make_dummy.sh#L5)
   
    * `cydia` Version: [1.1.33](https://github.com/ProcursusTeam/repo/blob/master/pool/main/iphoneos-arm64/1600/cydia_1.1.33_iphoneos-arm.deb)
  
