@@ -40,10 +40,10 @@
 
  only hide the following, show everything else
 
-    * all `dummy packages` 
-       > [a `dummy package` is used to help with migration from other bootstraps. Safe to remove.](https://github.com/ProcursusTeam/Procursus/blob/master/build_tools/make_dummy.sh#L5)
+  * all `dummy packages` 
+    > [a `dummy package` is used to help with migration from other bootstraps. Safe to remove.](https://github.com/ProcursusTeam/Procursus/blob/master/build_tools/make_dummy.sh#L5)
   
-    * `cydia` Version: [1.1.33](https://github.com/ProcursusTeam/repo/blob/master/pool/main/iphoneos-arm64/1600/cydia_1.1.33_iphoneos-arm.deb) - since we can use the version from Elucubratus we don't need this one.
+  * `cydia` Version: [1.1.33](https://github.com/ProcursusTeam/repo/blob/master/pool/main/iphoneos-arm64/1600/cydia_1.1.33_iphoneos-arm.deb) - since we can use the version from Elucubratus we don't need this one.
  
 ### [Odyssey Packages](https://github.com/mwoolweaver/elucidate/blob/master/etc/apt/preferences.d/_elucidate_odyssey)
 
