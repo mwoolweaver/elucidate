@@ -16,3 +16,21 @@ Author: Michael Woolweaver <m.woolweaver@icloud.com>
 Depiction: https://elucidate.woolweaver.bid
 Name: elucidate
 
+Package: elucidate
+Version: 1.0r1.8
+Architecture: iphoneos-arm
+Maintainer: Michael Woolweaver <m.woolweaver@icloud.com>
+Depends: procursus-keyring
+Replaces: cydia
+Filename: ./elucidate_1.0r1.8_iphoneos-arm.deb
+Size: 94996
+MD5sum: eeabbcdb78578770bf105d8251e4aef2
+SHA1: 740674aebb8cc43b8fb906abc9e5f7f5e0ebef53
+SHA256: 95c71a26eefa6d54bddc6ab378d51e8dbc331b68716f386cb4f3d37a7eb13e54
+Section: System
+Description: Clean up Elucubratus, Procursus, & Odyssey repos to work together on checkra1n.
+ (ĭ-lo͞o′sĭ-dāt′) Clean up Elucubratus, Procursus, & Odyssey repos to work together on checkra1n.
+Author: Michael Woolweaver <m.woolweaver@icloud.com>
+Depiction: https://elucidate.woolweaver.bid
+Name: elucidate
+
