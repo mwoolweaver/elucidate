@@ -34,7 +34,7 @@ only show the following, hide everything else
     
     * `org.thebigboss.repo.icons` - locally cached package icons from BigBoss
 
-  * `com.bingner.snappy` - not sure of the consequences of not having it on [checkra1n](https://checkra.in)
+  * `com.bingner.snappy` - A tool for APFS snapshot management
 
 ### [Procursus Packages](https://github.com/mwoolweaver/elucidate/blob/master/etc/apt/preferences.d/_elucidate_procursus)
 
@@ -43,15 +43,15 @@ only hide the following, show everything else
    * all `dummy packages` 
       > [a `dummy package` is used to help with migration from other bootstraps. Safe to remove.](https://github.com/ProcursusTeam/Procursus/blob/master/build_tools/make_dummy.sh#L5)
   
-   * `cydia` Version: [1.1.33](https://github.com/ProcursusTeam/repo/blob/master/pool/main/iphoneos-arm64/1600/cydia_1.1.33_iphoneos-arm.deb) - since we can successfully use the version from Elucubratus we don't need this one to show up ever.
+   * `cydia` Version: [1.1.33](https://github.com/ProcursusTeam/repo/blob/master/pool/main/iphoneos-arm64/1600/cydia_1.1.33_iphoneos-arm.deb) - since we can use the version from Elucubratus we don't need this one.
  
 ### [Odyssey Packages](https://github.com/mwoolweaver/elucidate/blob/master/etc/apt/preferences.d/_elucidate_odyssey)
 
 only hide the following, show everything else
 
- * `preferenceloader` - causes issues for me and others as well so hide to avoid them
+ * `preferenceloader` - causes issues for me and others as well so hide to avoid them.
  
- * `com.muirey03.libmryipc` - causes update loops for some reason. . .
+ * `com.muirey03.libmryipc` - causes update loops cause it's outdated.
 
 ## Using elucidate
 
