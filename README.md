@@ -18,7 +18,7 @@ Clean up Elucubratus, Procursus, & Odyssey repos to work together on checkra1n.
 
 ### [Elucubratus Packages](https://github.com/mwoolweaver/elucidate/blob/master/etc/apt/preferences.d/_elucidate_elucubratus)
 
-only show the following 
+only show the following, hide everything else
 
   * `mobilesubstrate`
 
@@ -32,16 +32,16 @@ only show the following
 
 ### [Procursus Packages](https://github.com/mwoolweaver/elucidate/blob/master/etc/apt/preferences.d/_elucidate_procursus)
 
-hide the following 
+only hide the following, show everything else
 
-   * `dummy packages` 
+   * all `dummy packages` 
       > [A `dummy package` is used to help migration from other bootstraps. Safe to remove.](https://github.com/ProcursusTeam/Procursus/blob/master/build_tools/make_dummy.sh)
   
    * `cydia` Version: [1.1.33](https://github.com/ProcursusTeam/repo/blob/master/pool/main/iphoneos-arm64/1600/cydia_1.1.33_iphoneos-arm.deb)
  
 ### [Odyssey Packages](https://github.com/mwoolweaver/elucidate/blob/master/etc/apt/preferences.d/_elucidate_odyssey)
 
-hide the following 
+only hide the following, show everything else
 
  * `preferenceloader` - causes issues for me and others as well so hide to avoid them
  * `com.muirey03.libmryipc` - causes update loops for some reason. . .
