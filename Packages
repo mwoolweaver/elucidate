@@ -1,14 +1,14 @@
 Package: elucidate
-Version: 1.0r1.13
+Version: 1.0r1.14
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <m.woolweaver@icloud.com>
 Depends: procursus-keyring
 Replaces: cydia
 Filename: ./elucidate.deb
 Size: 10212
-MD5sum: c66a17a0412964d1affbf421871475aa
-SHA1: b720a9ce82136d4c1cb88a30a9336bd8fdb5f0ab
-SHA256: 331fe69b888d4273458282466ed6ed846e583ec3e848c01c182f727cc83a09b5
+MD5sum: 3798909384409e38c935d18b08a1fc09
+SHA1: 2790cd48e87322d556a24c366fe394a5b9ee67c9
+SHA256: 1444049f5f5c7ed55e64c354052ad7555fd8338601d8782a06a0e8d0d7a4fa0f
 Section: System
 Description: Clean up Elucubratus, Procursus, & Odyssey repos to work together on checkra1n.
  (ĭ-lo͞o′sĭ-dāt′) Clean up Elucubratus, Procursus, & Odyssey repos to work together on checkra1n.
