@@ -2,7 +2,7 @@ Package: *
 Pin: release n=odyssey-ios
 Pin-Priority: 1003
 
-Package: preferenceloader
+Package: com.rpetrich.rocketbootstrap
 Pin: release n=odyssey-ios
 Pin-Priority: -1
 
