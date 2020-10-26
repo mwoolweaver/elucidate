@@ -16,7 +16,7 @@
 
 ## Package Pins
 
-### [Elucubratus Packages](https://github.com/mwoolweaver/elucidate/blob/master/etc/apt/preferences.d/_elucidate_elucubratus)
+### [Elucubratus Packages](https://github.com/mwoolweaver/elucidate/blob/gh-pages/elucidate/etc/apt/preferences.d/_elucidate_elucubratus)
 
  only show the following, hide everything else
 
@@ -36,7 +36,7 @@
 
    * `com.bingner.snappy` - A tool for APFS snapshot management
 
-### [Procursus Packages](https://github.com/mwoolweaver/elucidate/blob/master/etc/apt/preferences.d/_elucidate_procursus)
+### [Procursus Packages](https://github.com/mwoolweaver/elucidate/blob/gh-pages/elucidate/etc/apt/preferences.d/_elucidate_procursus)
 
  only hide the following, show everything else
 
@@ -45,7 +45,7 @@
   
   * `cydia` Version: [1.1.33](https://github.com/ProcursusTeam/repo/blob/master/pool/main/iphoneos-arm64/1600/cydia_1.1.33_iphoneos-arm.deb) - since we can use the version from Elucubratus we don't need this one.
  
-### [Odyssey Packages](https://github.com/mwoolweaver/elucidate/blob/master/etc/apt/preferences.d/_elucidate_odyssey)
+### [Odyssey Packages](https://github.com/mwoolweaver/elucidate/blob/gh-pages/elucidate/etc/apt/preferences.d/_elucidate_odyssey)
 
  only hide the following, show everything else
 
