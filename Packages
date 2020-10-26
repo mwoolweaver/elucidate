@@ -5,10 +5,10 @@ Maintainer: Michael Woolweaver <m.woolweaver@icloud.com>
 Depends: procursus-keyring
 Replaces: cydia
 Filename: ./elucidate.deb
-Size: 12440
-MD5sum: dadaaa52a5f473d1adbccbdb9f920cb6
-SHA1: 85f304901ed3f8922d16d52957005c45a000f12e
-SHA256: b9da0877e2cf1c333e195439e67d53fc5818bfe06949e426fc04423611cf0952
+Size: 10196
+MD5sum: 11620a5f4cb32d9b14493a6fcea1098f
+SHA1: 737f7dd61b330c2144a7edab25c0d38ab48da2df
+SHA256: 9664aea32df01475afcb76ec727ed220f7c92893c29c3fbcbc1d6e38a273f2b3
 Section: System
 Description: Clean up Elucubratus, Procursus, & Odyssey repos to work together on checkra1n.
  (ĭ-lo͞o′sĭ-dāt′) Clean up Elucubratus, Procursus, & Odyssey repos to work together on checkra1n.
