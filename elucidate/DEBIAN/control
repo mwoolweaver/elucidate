@@ -1,5 +1,5 @@
 Package: elucidate
-Version: 1.0r1.10
+Version: 1.0r1.11
 Architecture: iphoneos-arm
 Maintainer: Michael Woolweaver <m.woolweaver@icloud.com>
 Depends: procursus-keyring
